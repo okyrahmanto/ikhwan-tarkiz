@@ -1,0 +1,1 @@
+enum TodoCardSettings { edit_color, delete }
